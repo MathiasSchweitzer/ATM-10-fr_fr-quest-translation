@@ -14,5 +14,5 @@ config/ftbquests/quests/lang/*.snbt
 # ignore recovery files
 config/ftbquests/quests/lang/recovery/*.snbt
 
-# ignore already merged files
-config/ftbquests/quests/lang/**/*.snbt_merged
+# ignore already merged files (removed so I can commit them)
+# config/ftbquests/quests/lang/**/*.snbt_merged
